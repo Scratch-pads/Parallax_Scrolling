@@ -17,6 +17,15 @@ body{
     height: 700px;
 }
 
+.stopAndGo{
+    background-color: aliceblue;
+    color: crimson;
+    font-size: 20px;
+    width: 70px;
+    height: 50px;
+    padding: 2px;
+}
+
 .slider{
     color: aliceblue;
     position: relative;
